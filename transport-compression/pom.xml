@@ -28,8 +28,14 @@
         </dependency>
         <dependency>
             <groupId>org.apache.accumulo</groupId>
+            <artifactId>accumulo-shell</artifactId>
+            <version>1.8.0-SNAPSHOT</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.accumulo</groupId>
             <artifactId>accumulo-core</artifactId>
-            <version>1.6.2</version>
+            <version>1.8.0-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
