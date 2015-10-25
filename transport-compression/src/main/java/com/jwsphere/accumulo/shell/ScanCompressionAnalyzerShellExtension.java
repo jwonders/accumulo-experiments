@@ -15,8 +15,8 @@
  */
 package com.jwsphere.accumulo.shell;
 
-import org.apache.accumulo.core.util.shell.Shell.Command;
-import org.apache.accumulo.core.util.shell.ShellExtension;
+import org.apache.accumulo.shell.Shell.Command;
+import org.apache.accumulo.shell.ShellExtension;
 
 /**
  * A shell extension that supplies commands for evaluating various
